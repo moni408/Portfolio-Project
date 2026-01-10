@@ -41,7 +41,7 @@ Ayesha-Siddika-Moni-Portfolio/
 
 ## The portfolio is deployed and accessible online:
 
-[Vercel Live Site]([https://portfolio-project-chi-tawny.vercel.app/]) <!-- Replace with your actual Vercel URL -->
+[Vercel Live Site](https://portfolio-project-chi-tawny.vercel.app/) <!-- Replace with your actual Vercel URL -->
 
 ## Live Site
 
