@@ -678,7 +678,8 @@ h3.my-profession {
 
 .nav li a:hover {
   background: rgb(247, 92, 92);
-  margin-right: 30px;
+  margin-right: 20px;
+  margin-left: 20px
   border-radius: 20px;
 }
 
@@ -715,6 +716,10 @@ h3.my-profession {
     margin: 20px 0;
     text-align: center;
   }
+}
+@media (max-width: 276px){
+    .nav{
+        height: 65vh
 }
 
 
