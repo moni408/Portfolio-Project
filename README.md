@@ -41,7 +41,7 @@ Ayesha-Siddika-Moni-Portfolio/
 
 ## The portfolio is deployed and accessible online:
 
-[Vercel Live Site](https://ayesha-siddika-moni-portfolio.vercel.app/) <!-- Replace with your actual Vercel URL -->
+[Vercel Live Site]() <!-- Replace with your actual Vercel URL -->
 
 ## Live Site
 
