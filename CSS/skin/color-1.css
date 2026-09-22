@@ -1,0 +1,5 @@
+/* Skin file — swap this to re-theme the site's accent color */
+:root {
+    --skin-color: #ec1839;
+    --skin-color-rgb: 236, 24, 57;
+}
